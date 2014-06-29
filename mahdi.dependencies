@@ -1,9 +1,9 @@
 [
     {
         "remote":       "github",
-        "repository":   "Mahdi-Rom/android_kernel_lge_v500",
+        "repository":   "cyanogenmod/android_kernel_lge_v500",
         "target_path":  "kernel/lge/v500",
-        "revision":     "kk-4.4"
+        "revision":     "cm-11.0"
     },
     {
         "remote":       "github",
