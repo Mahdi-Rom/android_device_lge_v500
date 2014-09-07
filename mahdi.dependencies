@@ -1,14 +1,28 @@
 [
     {
         "remote":       "github",
-        "repository":   "cyanogenmod/android_kernel_lge_v500",
-        "target_path":  "kernel/lge/v500",
-        "revision":     "cm-11.0"
-    },
-    {
-        "remote":       "github",
         "repository":   "TheMuppets/proprietary_vendor_lge",
         "target_path":  "vendor/lge",
         "revision":     "cm-11.0"
+    },
+    {
+        "repository": "SlimRoms/kernel_lge_v500",
+        "target_path": "kernel/lge/v500",
+        "remote": "github",
+        "branch": "kk4.4"
+    },
+    {
+        "repository": "SlimRoms/hardware_qcom_display-caf",
+        "target_path": "hardware/qcom/display-caf",
+        "remote": "github",
+        "branch": "kk4.4"
+    },
+    {
+        "repository": "SlimRoms/hardware_qcom_media-caf",
+        "target_path": "hardware/qcom/media-caf",
+        "remote": "github",
+        "branch": "kk4.4"
     }
 ]
+
+
